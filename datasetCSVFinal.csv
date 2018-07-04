@@ -1,0 +1,125 @@
+Source,Target,Type
+Conceição,Bonito de Santa Fe,Undirected
+Bonito de Santa Fé,São José de Piranhas,Undirected
+São José de Piranhas,Cajazeiras,Undirected
+Cajazeiras,São João do Rio do Peixe,Undirected
+Cajazeiras,Sousa,Undirected
+Sousa,Aparecida,Undirected
+Aparecida,Pombal,Undirected
+Pombal,São Bentinho,Undirected
+São Bentinho,Condado,Undirected
+Condado,Malta,Undirected
+Malta,Patos,Undirected
+Patos,Santa Teresinha,Undirected
+Santa Teresinha,Catingueira,Undirected
+Catingueira,Olho d’Água,Undirected
+Olho d’Água,Piancó,Undirected
+Piancó,Itaporanga,Undirected
+Itaporanga,Boa Ventura,Undirected
+Boa Ventura,Diamante,Undirected
+Diamante,Conceição,Undirected
+Ibiara,Itaporanga,Undirected
+Itaporanga,São José de Caiana,Undirected
+São José de Caiana,Serra Grande,Undirected
+Serra Grande,São José de Piranhas,Undirected
+São José de Piranhas,Aguiar,Undirected
+São José de Piranhas,Carrapateira,Undirected
+Carrapateira,Nazarezinho,Undirected
+Nazarezinho,Cajazeiras,Undirected
+Aparecida,São Francisco,Undirected
+São Francisco ,Santa Cruz,Undirected
+Sousa,Lastro,Undirected
+Sousa,Uraúna,Undirected
+Marizópolis,São João do Rio do Peixe,Undirected
+São João do Rio do Peixe,Uiraúna,Undirected
+Uiraúna,Santarém,Undirected
+Cajazeirinhas,Coremas,Undirected
+Coremas,Aguiar,Undirected
+Diamante,Curral Velho,Undirected
+Curral Velho,Manaíra,Undirected
+Manaíra,São José de Princesa,Undirected
+São Jose de Princesa,Princesa Isabel,Undirected
+Princesa Isabel,Tavares,Undirected
+Tavares,Juru,Undirected
+Juru,Água Branca,Undirected
+Água Branca,Imaculada,Undirected
+Imaculada,Maturéia,Undirected
+Maturéia ,Teixeira,Undirected
+Teixeira,São José do Bonfim,Undirected
+São José do Bonfim,Patos,Undirected
+São José do Bonfim,Mãe d’Água,Undirected
+Patos,São José doe Espinharas,Undirected
+Patos,São Bento,Undirected
+São Bento,Brejo do Cruz,Undirected
+Brejo do Cruz,Catolé do Rocha,Undirected
+Catolé do Rocha,Brejo dos Santos,Undirected
+Brejo dos Santos,Bom Sucesso,Undirected
+Pombal,São Domingos de Pombal,Undirected
+Coremas,São José da Lagoa Tapada,Undirected
+São José da Lagoa Tapada,Nazarezinho,Undirected
+Piancó,Santana dos Garrotes,Undirected
+Santana dos Garrotes,Nova Olinda,Undirected
+Nova Olinda,Pedra Branca,Undirected
+Pedra Branca,Itaporanga,Undirected
+São João do Rio do Peixe,Poço de José de Moura,Undirected
+Malta,Vista Serrana,Undirected
+Vista Serrana,Paulista,Undirected
+Paulista,São Bento,Undirected
+Brejo do Cruz,São José do Brejo do Cruz,Undirected
+São João do Rio do Peixe,Santa Helena,Undirected
+São João do Rio do Peixe,Triunfo,Undirected
+Triunfo,Bernardino Batista,Undirected
+Bernardino Batista ,Santarém,Undirected
+Patos,São Mamede,Undirected
+São Mamede,Santa Luzia,Undirected
+Santa Luzia,Junco do Seridó,Undirected
+Junco do Seridó,Juazeirinho,Undirected
+Juazeirinho,Assunção,Undirected
+Assunção,Salgadinho,Undirected
+Salgadinho,Areia de Baraúnas,Undirected
+Areia de Baraúnas,Passagem,Undirected
+Passagem,Quixabá,Undirected
+Quixabá,Patos,Undirected
+Teixeira,Desterro,Undirected
+Desterro,Taperoá,Undirected
+Taperoá,Assunção,Undirected
+Juazeirinho,Soledade,Undirected
+Soledade,Gurjão,Undirected
+Gurjão,São João do Cariri,Undirected
+Gurjão,Santo André,Undirected
+Santo Andŕe,Parari,Undirected
+Parari,São João do Cariri,Undirected
+São João do Cariri,São José dos Cordeiros,Undirected
+São José dos Cordeiros,Taperoá,Undirected
+São José dos Cordeiros,Sumé,Undirected
+São José dos Cordeiros,Livramento,Undirected
+Livramento Desterro,,Undirected
+Sumé,Monteiro,Undirected
+Sumé,Serra Branca,Undirected
+Serra Branca,São João do Cariri,Undirected
+Serra Branca,São José dos Cordeiros,Undirected
+Soledade,Seridó,Undirected
+Seridó,Pedra Lavrada,Undirected
+Pedra Lavrada,Nova Palmeira,Undirected
+Nova Palmeira,Picuí,Undirected
+Picuí,Nova Floresta,Undirected
+Nova Floresta, Cuité,Undirected
+Cuité, Sossego,Undirected
+Sossego, Cubati,Undirected
+Cubati, Soledade,Undirected
+Cubati, Seridó,Undirected
+Monteiro, Camalaú,Undirected
+Camalaú, Sumé,Undirected
+Monteiro, São Sebastião do Umbuzeiro,Undirected
+São Sebastião do Umbuzeiro, São João do Tigre,Undirected
+São João do Tigre, Camalaú,Undirected
+Camalaú, Congo,Undirected
+Congo, Sumé,Undirected
+Monteiro, Prata,Undirected
+Prata, Ouro Velho,Undirected
+Ouro Velho, Amparo,Undirected
+Amparo, Sumé,Undirected
+Congo, Caraúbas,Undirected
+Caraúbas, Coxixola,Undirected,
+Coxixola, Serra Branca,Undirected
+
