@@ -1,124 +1,124 @@
-Source,Target,Type
-Conceição,Bonito de Santa Fe,Undirected
-Bonito de Santa Fé,São José de Piranhas,Undirected
-São José de Piranhas,Cajazeiras,Undirected
-Cajazeiras,São João do Rio do Peixe,Undirected
-Cajazeiras,Sousa,Undirected
-Sousa,Aparecida,Undirected
-Aparecida,Pombal,Undirected
-Pombal,São Bentinho,Undirected
-São Bentinho,Condado,Undirected
-Condado,Malta,Undirected
-Malta,Patos,Undirected
-Patos,Santa Teresinha,Undirected
-Santa Teresinha,Catingueira,Undirected
-Catingueira,Olho d’Água,Undirected
-Olho d’Água,Piancó,Undirected
-Piancó,Itaporanga,Undirected
-Itaporanga,Boa Ventura,Undirected
-Boa Ventura,Diamante,Undirected
-Diamante,Conceição,Undirected
-Ibiara,Itaporanga,Undirected
-Itaporanga,São José de Caiana,Undirected
-São José de Caiana,Serra Grande,Undirected
-Serra Grande,São José de Piranhas,Undirected
-São José de Piranhas,Aguiar,Undirected
-São José de Piranhas,Carrapateira,Undirected
-Carrapateira,Nazarezinho,Undirected
-Nazarezinho,Cajazeiras,Undirected
-Aparecida,São Francisco,Undirected
-São Francisco ,Santa Cruz,Undirected
-Sousa,Lastro,Undirected
-Sousa,Uraúna,Undirected
-Marizópolis,São João do Rio do Peixe,Undirected
-São João do Rio do Peixe,Uiraúna,Undirected
-Uiraúna,Santarém,Undirected
-Cajazeirinhas,Coremas,Undirected
-Coremas,Aguiar,Undirected
-Diamante,Curral Velho,Undirected
-Curral Velho,Manaíra,Undirected
-Manaíra,São José de Princesa,Undirected
-São Jose de Princesa,Princesa Isabel,Undirected
-Princesa Isabel,Tavares,Undirected
-Tavares,Juru,Undirected
-Juru,Água Branca,Undirected
-Água Branca,Imaculada,Undirected
-Imaculada,Maturéia,Undirected
-Maturéia ,Teixeira,Undirected
-Teixeira,São José do Bonfim,Undirected
-São José do Bonfim,Patos,Undirected
-São José do Bonfim,Mãe d’Água,Undirected
-Patos,São José doe Espinharas,Undirected
-Patos,São Bento,Undirected
-São Bento,Brejo do Cruz,Undirected
-Brejo do Cruz,Catolé do Rocha,Undirected
-Catolé do Rocha,Brejo dos Santos,Undirected
-Brejo dos Santos,Bom Sucesso,Undirected
-Pombal,São Domingos de Pombal,Undirected
-Coremas,São José da Lagoa Tapada,Undirected
-São José da Lagoa Tapada,Nazarezinho,Undirected
-Piancó,Santana dos Garrotes,Undirected
-Santana dos Garrotes,Nova Olinda,Undirected
-Nova Olinda,Pedra Branca,Undirected
-Pedra Branca,Itaporanga,Undirected
-São João do Rio do Peixe,Poço de José de Moura,Undirected
-Malta,Vista Serrana,Undirected
-Vista Serrana,Paulista,Undirected
-Paulista,São Bento,Undirected
-Brejo do Cruz,São José do Brejo do Cruz,Undirected
-São João do Rio do Peixe,Santa Helena,Undirected
-São João do Rio do Peixe,Triunfo,Undirected
-Triunfo,Bernardino Batista,Undirected
-Bernardino Batista ,Santarém,Undirected
-Patos,São Mamede,Undirected
-São Mamede,Santa Luzia,Undirected
-Santa Luzia,Junco do Seridó,Undirected
-Junco do Seridó,Juazeirinho,Undirected
-Juazeirinho,Assunção,Undirected
-Assunção,Salgadinho,Undirected
-Salgadinho,Areia de Baraúnas,Undirected
-Areia de Baraúnas,Passagem,Undirected
-Passagem,Quixabá,Undirected
-Quixabá,Patos,Undirected
-Teixeira,Desterro,Undirected
-Desterro,Taperoá,Undirected
-Taperoá,Assunção,Undirected
-Juazeirinho,Soledade,Undirected
-Soledade,Gurjão,Undirected
-Gurjão,São João do Cariri,Undirected
-Gurjão,Santo André,Undirected
-Santo Andŕe,Parari,Undirected
-Parari,São João do Cariri,Undirected
-São João do Cariri,São José dos Cordeiros,Undirected
-São José dos Cordeiros,Taperoá,Undirected
-São José dos Cordeiros,Sumé,Undirected
-São José dos Cordeiros,Livramento,Undirected
-Livramento Desterro,,Undirected
-Sumé,Monteiro,Undirected
-Sumé,Serra Branca,Undirected
-Serra Branca,São João do Cariri,Undirected
-Serra Branca,São José dos Cordeiros,Undirected
-Soledade,Seridó,Undirected
-Seridó,Pedra Lavrada,Undirected
-Pedra Lavrada,Nova Palmeira,Undirected
-Nova Palmeira,Picuí,Undirected
-Picuí,Nova Floresta,Undirected
-Nova Floresta, Cuité,Undirected
-Cuité, Sossego,Undirected
-Sossego, Cubati,Undirected
-Cubati, Soledade,Undirected
-Cubati, Seridó,Undirected
-Monteiro, Camalaú,Undirected
-Camalaú, Sumé,Undirected
-Monteiro, São Sebastião do Umbuzeiro,Undirected
-São Sebastião do Umbuzeiro, São João do Tigre,Undirected
-São João do Tigre, Camalaú,Undirected
-Camalaú, Congo,Undirected
-Congo, Sumé,Undirected
-Monteiro, Prata,Undirected
-Prata, Ouro Velho,Undirected
-Ouro Velho, Amparo,Undirected
-Amparo, Sumé,Undirected
-Congo, Caraúbas,Undirected
-Caraúbas, Coxixola,Undirected,
-Coxixola, Serra Branca,Undirected
+Source,Target,Distance (m),Type
+Conceição,Bonito de Santa Fe,38500,Undirected
+Bonito de Santa Fé,São José de Piranhas,32600,Undirected
+São José de Piranhas,Cajazeiras,32900,Undirected
+Cajazeiras,São João do Rio do Peixe,22900,Undirected
+Cajazeiras,Sousa,45700,Undirected
+Sousa,Aparecida,52400,Undirected
+Aparecida,Pombal,39400,Undirected
+Pombal,São Bentinho,16900,Undirected
+São Bentinho,Condado,14200,Undirected
+Condado,Malta,10000,Undirected
+Malta,Patos,31400,Undirected
+Patos,Santa Teresinha,20800,Undirected
+Santa Teresinha,Catingueira,21400,Undirected
+Catingueira,Olho d’Água,21600,Undirected
+Olho d’Água,Piancó,21300,Undirected
+Piancó,Itaporanga,30700,Undirected
+Itaporanga,Boa Ventura,18000,Undirected
+Boa Ventura,Diamante,7000,Undirected
+Diamante,Conceição,34100,Undirected
+Ibiara,Itaporanga,38600,Undirected
+Itaporanga,São José de Caiana,19300,Undirected
+São José de Caiana,Serra Grande,13200,Undirected
+Serra Grande,São José de Piranhas,29000,Undirected
+São José de Piranhas,Aguiar,42700,Undirected
+São José de Piranhas,Carrapateira,27400,Undirected
+Carrapateira,Nazarezinho,17500,Undirected
+Nazarezinho,Cajazeiras,46500,Undirected
+Aparecida,São Francisco,19900,Undirected
+São Francisco ,Santa Cruz,14200,Undirected
+Sousa,Lastro,33900,Undirected
+Sousa,Uiraúna,38100,Undirected
+Marizópolis,São João do Rio do Peixe,20400,Undirected
+São João do Rio do Peixe,Uiraúna,23900,Undirected
+Uiraúna,Santarém,15900,Undirected
+Cajazeirinhas,Coremas,20600,Undirected
+Coremas,Aguiar,38400,Undirected
+Diamante,Curral Velho,22300,Undirected
+Curral Velho,Manaíra,30700,Undirected
+Manaíra,São José de Princesa,9200,Undirected
+São Jose de Princesa,Princesa Isabel,13000,Undirected
+Princesa Isabel,Tavares,16900,Undirected
+Tavares,Juru,26200,Undirected
+Juru,Água Branca,21700,Undirected
+Água Branca,Imaculada,27900,Undirected
+Imaculada,Maturéia,33500,Undirected
+Maturéia ,Teixeira,13800,Undirected
+Teixeira,São José do Bonfim,13700,Undirected
+São José do Bonfim,Patos,17700,Undirected
+São José do Bonfim,Mãe d’Água,22600,Undirected
+Patos,São José dos Espinharas,33200,Undirected
+Patos,São Bento,78300,Undirected
+São Bento,Brejo do Cruz,19100,Undirected
+Brejo do Cruz,Catolé do Rocha,29900,Undirected
+Catolé do Rocha,Brejo dos Santos,9800,Undirected
+Brejo dos Santos,Bom Sucesso,15400,Undirected
+Pombal,São Domingos de Pombal,35600,Undirected
+Coremas,São José da Lagoa Tapada,30700,Undirected
+São José da Lagoa Tapada,Nazarezinho,37200,Undirected
+Piancó,Santana dos Garrotes,23100,Undirected
+Santana dos Garrotes,Nova Olinda,15100,Undirected
+Nova Olinda,Pedra Branca,9300,Undirected
+Pedra Branca,Itaporanga,18100,Undirected
+São João do Rio do Peixe,Poço de José de Moura,16000,Undirected
+Malta,Vista Serrana,17500,Undirected
+Vista Serrana,Paulista,22100,Undirected
+Paulista,São Bento,24000,Undirected
+Brejo do Cruz,São José do Brejo do Cruz,27700,Undirected
+São João do Rio do Peixe,Santa Helena,24800,Undirected
+São João do Rio do Peixe,Triunfo,29500,Undirected
+Triunfo,Bernardino Batista,21800,Undirected
+Bernardino Batista ,Santarém,12800,Undirected
+Patos,São Mamede,24000,Undirected
+São Mamede,Santa Luzia,22100,Undirected
+Santa Luzia,Junco do Seridó,31300,Undirected
+Junco do Seridó,Juazeirinho,19300,Undirected
+Juazeirinho,Assunção,17300,Undirected
+Assunção,Salgadinho,14300,Undirected
+Salgadinho,Areia de Baraúnas,18500,Undirected
+Areia de Baraúnas,Passagem,11900,Undirected
+Passagem,Quixabá,22100,Undirected
+Quixabá,Patos,14700,Undirected
+Teixeira,Desterro,23000,Undirected
+Desterro,Taperoá,32200,Undirected
+Taperoá,Assunção,20200,Undirected
+Juazeirinho,Soledade,25100,Undirected
+Soledade,Gurjão,31700,Undirected
+Gurjão,São João do Cariri,19000,Undirected
+Gurjão,Santo André,18000,Undirected
+Santo Andŕe,Parari,15100,Undirected
+Parari,São João do Cariri,22900,Undirected
+São João do Cariri,São José dos Cordeiros,38400,Undirected
+São José dos Cordeiros,Taperoá,32400,Undirected
+São José dos Cordeiros,Sumé,34900,Undirected
+São José dos Cordeiros,Livramento,23400,Undirected
+Livramento Desterro,,23600,Undirected
+Sumé,Monteiro,36200,Undirected
+Sumé,Serra Branca,33100,Undirected
+Serra Branca,São João do Cariri,20100,Undirected
+Serra Branca,São José dos Cordeiros,34200,Undirected
+Soledade,Seridó,26400,Undirected
+Seridó,Pedra Lavrada,16500,Undirected
+Pedra Lavrada,Nova Palmeira,19900,Undirected
+Nova Palmeira,Picuí,32200,Undirected
+Picuí,Nova Floresta,14500,Undirected
+Nova Floresta, Cuité,6700,Undirected
+Cuité, Sossego,41100,Undirected
+Sossego, Cubati,21200,Undirected
+Cubati, Soledade,29000,Undirected
+Cubati, Seridó,19400,Undirected
+Monteiro, Camalaú,49600,Undirected
+Camalaú, Sumé,36700,Undirected
+Monteiro, São Sebastião do Umbuzeiro,36600,Undirected
+São Sebastião do Umbuzeiro, São João do Tigre,21700,Undirected
+São João do Tigre, Camalaú,25900,Undirected
+Camalaú, Congo,26800,Undirected
+Congo, Sumé,35500,Undirected
+Monteiro, Prata,29000,Undirected
+Prata, Ouro Velho,13400,Undirected
+Ouro Velho, Amparo,16300,Undirected
+Amparo, Sumé,63800,Undirected
+Congo, Caraúbas,34300,Undirected
+Caraúbas, Coxixola,30400,Undirected
+Coxixola, Serra Branca,22400,Undirected
