@@ -1,4 +1,4 @@
-Source,Target,Distance (m),Type
+Source,Target,Weight,Type
 Conceição,Bonito de Santa Fe,38500,Undirected
 Bonito de Santa Fé,São José de Piranhas,32600,Undirected
 São José de Piranhas,Cajazeiras,32900,Undirected
